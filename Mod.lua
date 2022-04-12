@@ -4,11 +4,11 @@
 --// dab
 
 MODS = {
-    [2306204753] = true; -- owner 	
+    [2306204753] = true; -- owner
 }
 
 ADMINS = {
-    [475876108] = true;
+    [2282850208] = true;
 }
 
 --// Don't mess with anything below this

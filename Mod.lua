@@ -4,7 +4,7 @@
 --// dab
 
 MODS = {
-    [] = true; -- owner 	
+    [2306204753] = true; -- owner 	
 }
 
 ADMINS = {
